@@ -1,0 +1,19 @@
+{
+  "name": "baseline",
+  "cases": [
+    {
+      "id": "capital",
+      "expected": "Paris",
+      "actual": "London",
+      "latency_ms": 120,
+      "cost_usd": 0.001
+    },
+    {
+      "id": "arithmetic",
+      "expected": "4",
+      "actual": "4",
+      "latency_ms": 80,
+      "cost_usd": 0.001
+    }
+  ]
+}
